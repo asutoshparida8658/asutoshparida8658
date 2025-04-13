@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ 
+- 💻 &nbsp; Python | Java | C
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | React 
 - 🛢 &nbsp; MongoDB | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
+- 🖥 &nbsp; Adobe Xd | After Effect | Photoshop 
 
 <br>
 
@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:asutoshparida9052@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Asutosh](https://github.com/devSouvik)
+⭐️ From [Asutosh]([https://github.com/devSouvik](https://github.com/asutoshparida8658))
