@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on building a full-stack web app with cutting-edge AI integrations.
+- 🔭 &nbsp; I’m currently working on building full-stack web app with cutting-edge AI integrations.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Actively learning LLM integration,Edge AI deployment, and Next.js full-stack development.
 - 💼 &nbsp; front-end web developer.
